@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  product: ruby
-  order: one
+  name: MyString
+  password_digest: MyString
 
 two:
-  product: ruby
-  cart: one
+  name: MyString
+  password_digest: MyString
